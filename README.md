@@ -18,7 +18,7 @@
 - หน้าออเดอร์ (ยังไม่ได้สั่งสินค้า)
 ![image](https://user-images.githubusercontent.com/32282316/188275606-4ae51eb3-9829-4fe2-ba38-cb35a8a851a0.png)
 - หน้าออเดอร์ (สั่งสินค้าแล้ว)
-![image](https://user-images.githubusercontent.com/32282316/188275625-22a51aae-cf07-429b-b92c-f401d9acae34.png)
+![image](https://user-images.githubusercontent.com/32282316/188297624-1c5181df-079d-43c4-812c-8278ebb2519c.png)
 - หน้าสมัครสมาชิก
 ![image](https://user-images.githubusercontent.com/32282316/188296161-a107d0b6-dd66-498b-ad98-1df0862f12fd.png)
 - หน้าล็อคอิน
