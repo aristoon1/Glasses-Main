@@ -1,36 +1,36 @@
 ### **Glasses-Main ยังไม่ลงไฟล์ชิ้นงาน เพราะยังแก้ไขไม่เสร็จเรียบร้อย**
 - หน้าหลักของเว็บไซต์
-![image](https://user-images.githubusercontent.com/32282316/188274988-84a87177-946f-466d-a158-d77741a8a048.png)
-- หน้าหลัก (แสดงสินค้าที่เพิ่มเข้ามาล่าสุด)
-![image](https://user-images.githubusercontent.com/32282316/188275433-a1dbad5a-81e3-40b6-aad6-71a3003d8e7b.png)
+![image](https://user-images.githubusercontent.com/32282316/188305651-07512ccf-c73c-45b3-9656-c9f697f7960f.png)
+- แสดงสินค้าที่เพิ่มเข้ามาล่าสุด
+![image](https://user-images.githubusercontent.com/32282316/188305455-2e4cb62b-bbd6-49a7-9962-f7d5faec2a5c.png)
 - ความเป็นมาของร้าน
-![image](https://user-images.githubusercontent.com/32282316/188297676-70e5e72e-9bef-47cf-8170-939d294fa081.png)
+![image](https://user-images.githubusercontent.com/32282316/188305527-eb1f7e51-90f3-4f7d-8aa1-9aaa6d3e6ff8.png)
 - เกี่ยวกับพวกเรา
-![image](https://user-images.githubusercontent.com/32282316/188296506-c0007274-5180-4f86-8136-13a14ff3fb4c.png)
+![image](https://user-images.githubusercontent.com/32282316/188305558-8c879069-f73d-41bf-a948-181117638051.png)
 - รีวิวจากผู้ใช้งาน
-![image](https://user-images.githubusercontent.com/32282316/188275531-0a5107aa-7bc2-462c-b9d8-9db2ce28071d.png)
+![image](https://user-images.githubusercontent.com/32282316/188305618-6d3e9381-8d44-42f2-bb85-7901c63a294a.png)
 - ผู้จัดทำเว็บไซต์
-![image](https://user-images.githubusercontent.com/32282316/188275535-51b06f60-186d-4290-9838-510c28019a3d.png)
+![image](https://user-images.githubusercontent.com/32282316/188305627-5c282eb7-2454-4bc8-b997-8e2e843093a4.png)
 - หน้าแสดงสินค้า
-![image](https://user-images.githubusercontent.com/32282316/188296559-feb3e88d-3e86-445d-ac92-4cfa453a9e1f.png)
+![image](https://user-images.githubusercontent.com/32282316/188305683-7405c022-bd87-450c-9c48-d90eb1217be1.png)
 - ติดต่อพวกเรา
-![image](https://user-images.githubusercontent.com/32282316/188296569-2c0d3706-86cd-40d4-a669-bb33113b6186.png)
+![image](https://user-images.githubusercontent.com/32282316/188305690-f13d354a-f111-4b9b-bcd1-a328086af6d7.png)
 - หน้าออเดอร์ (ยังไม่ได้สั่งสินค้า)
-![image](https://user-images.githubusercontent.com/32282316/188275606-4ae51eb3-9829-4fe2-ba38-cb35a8a851a0.png)
+![image](https://user-images.githubusercontent.com/32282316/188305747-52ea1fb3-273a-4d7f-a82a-d0bdfad97950.png)
 - หน้าออเดอร์ (สั่งสินค้าแล้ว)
-![image](https://user-images.githubusercontent.com/32282316/188297624-1c5181df-079d-43c4-812c-8278ebb2519c.png)
+![image](https://user-images.githubusercontent.com/32282316/188305724-b6a020fe-63c2-4b32-a0ec-932813e6466c.png)
 - หน้าสมัครสมาชิก
-![image](https://user-images.githubusercontent.com/32282316/188296161-a107d0b6-dd66-498b-ad98-1df0862f12fd.png)
+![image](https://user-images.githubusercontent.com/32282316/188305767-cc2e3665-0a9d-4b03-a90b-fb545179570f.png)
 - หน้าล็อคอิน
-![image](https://user-images.githubusercontent.com/32282316/188296190-b16aa397-f64b-4f98-8ad8-90226c80e4c1.png)
+![image](https://user-images.githubusercontent.com/32282316/188305773-45fa15fd-ff6c-47d2-9936-81a218f19c5d.png)
 - หน้าค้นหาสินค้า
-![image](https://user-images.githubusercontent.com/32282316/188296589-91627aa7-0042-4394-ab9c-36bd482ec008.png)
+![image](https://user-images.githubusercontent.com/32282316/188305786-f2657250-76fd-4e2c-bb9f-6a7cf3c95a1f.png)
 - หน้าตะกร้าสินค้า (ยังไม่ได้เพิ่มสินค้า)
-![image](https://user-images.githubusercontent.com/32282316/188296635-5a192f60-7e53-42ba-8cc0-f10308339701.png)
+![image](https://user-images.githubusercontent.com/32282316/188306093-2a0895d3-751c-4deb-b461-6777cbaf7ea6.png)
 - หน้าตะกร้าสินค้า (เพิ่มสินค้าแล้ว)
-![image](https://user-images.githubusercontent.com/32282316/188296610-208b3ba8-ed37-416b-a175-3b89567716f4.png)
+![image](https://user-images.githubusercontent.com/32282316/188305828-691c578f-5381-4053-b7aa-0e31f1c5141e.png)
 - หน้าต่างแสดงชื่อและอีเมลของผู้ใช้งาน
-![image](https://user-images.githubusercontent.com/32282316/188275721-60c6c841-de17-4275-80b4-e1b02879442a.png) 
+
 
 ### **ในส่วนของหน้า AdminPanel ที่เป็น Backend ของเว็บไซต์**
 **หน้า Dashboard**
