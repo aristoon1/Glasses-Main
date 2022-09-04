@@ -30,7 +30,7 @@
 - หน้าตะกร้าสินค้า (เพิ่มสินค้าแล้ว)
 ![image](https://user-images.githubusercontent.com/32282316/188305828-691c578f-5381-4053-b7aa-0e31f1c5141e.png)
 - หน้าต่างแสดงชื่อและอีเมลของผู้ใช้งาน
-
+![image](https://user-images.githubusercontent.com/32282316/188306130-59440ad0-2d44-4f47-9b30-53285d03581c.png)
 
 ### **ในส่วนของหน้า AdminPanel ที่เป็น Backend ของเว็บไซต์**
 **หน้า Dashboard**
