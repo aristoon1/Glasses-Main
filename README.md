@@ -4,7 +4,7 @@
 - หน้าหลัก (แสดงสินค้าที่เพิ่มเข้ามาล่าสุด)
 ![image](https://user-images.githubusercontent.com/32282316/188275433-a1dbad5a-81e3-40b6-aad6-71a3003d8e7b.png)
 - ความเป็นมาของร้าน
-![image](https://user-images.githubusercontent.com/32282316/188275464-a8a3edb9-a39e-465b-acf6-61bfe75a38d9.png)
+![image](https://user-images.githubusercontent.com/32282316/188297676-70e5e72e-9bef-47cf-8170-939d294fa081.png)
 - เกี่ยวกับพวกเรา
 ![image](https://user-images.githubusercontent.com/32282316/188296506-c0007274-5180-4f86-8136-13a14ff3fb4c.png)
 - รีวิวจากผู้ใช้งาน
