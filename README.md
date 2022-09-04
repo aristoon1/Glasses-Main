@@ -21,9 +21,9 @@
 - หน้าออเดอร์ (สั่งสินค้าแล้ว)
 ![image](https://user-images.githubusercontent.com/32282316/188275625-22a51aae-cf07-429b-b92c-f401d9acae34.png)
 - หน้าสมัครสมาชิก
-![image](https://user-images.githubusercontent.com/32282316/188275693-a3db91fd-85c7-4583-97f3-12643ca0a998.png)
+![image](https://user-images.githubusercontent.com/32282316/188296161-a107d0b6-dd66-498b-ad98-1df0862f12fd.png)
 - หน้าล็อคอิน
-![image](https://user-images.githubusercontent.com/32282316/188275697-9eb849ea-5c47-43c5-bc30-e72120bea085.png)
+![image](https://user-images.githubusercontent.com/32282316/188296190-b16aa397-f64b-4f98-8ad8-90226c80e4c1.png)
 - หน้าค้นหาสินค้า
 ![image](https://user-images.githubusercontent.com/32282316/188275702-21414afc-957b-40fa-8a62-21eab879817a.png)
 - หน้าตะกร้าสินค้า (ยังไม่ได้เพิ่มสินค้า)
