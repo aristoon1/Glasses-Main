@@ -38,8 +38,8 @@ if(isset($_GET['delete'])){
 <?php include 'admin_header.php'; ?>
 
 <section class="messages">
-
-   <h1 class="title"> messages </h1>
+   
+   <h1 class="title"> Feedback </h1>
 
    <div class="box-container">
    <?php
@@ -53,7 +53,7 @@ if(isset($_GET['delete'])){
       <p> Name : <span><?php echo $fetch_message['name']; ?></span> </p>
       <p> Number : <span><?php echo $fetch_message['number']; ?></span> </p>
       <p> Email : <span><?php echo $fetch_message['email']; ?></span> </p>
-      <p> Message : <span><?php echo $fetch_message['message']; ?></span> </p>
+      <p> Feedback : <span><?php echo $fetch_message['message']; ?></span> </p>
       <a href="admin_contacts.php?delete=<?php echo $fetch_message['id']; ?>" onclick="return confirm('delete this message?');" class="delete-btn">delete message</a>
    </div>
    <?php
